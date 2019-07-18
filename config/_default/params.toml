@@ -18,7 +18,7 @@ description = ""
 sharing_image = ""
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = ""
+twitter = "@sknight_65"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -60,7 +60,6 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "mail@abhijitm.com"
 phone = "+353-899893701"
-address = "Floor 3, FOCAS Research Institute, TU Dublin, Camden Row, Dublin 8, Ireland"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -69,6 +68,8 @@ contact_links = [
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:abhijit.mahalunkar?call"},
   {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/sknight_65"},
 ]
+
+address = "Floor 3, FOCAS Research Institute, TU Dublin, Camden Row, Dublin 8, Ireland"
 
 # Display a map.
 # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
