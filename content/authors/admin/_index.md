@@ -18,7 +18,7 @@ organizations:
   url: "https://www.dit.ie/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include long distance dependencies in sequential data, language models, computer vision, human mobility, robotics and wireless sensor networks.
 
 interests:
 - Artificial Intelligence
