@@ -64,6 +64,8 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ 
+[publications]
 +++
 
 {{% alert note %}}
