@@ -33,15 +33,6 @@ date_format = "Jan 2006"
   location = "Goa, India"
   date_start = "2015-01-01"
   date_end = ""
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
-[[experience]]
-  title = "Co-Founder and Technical Advisor"
-  company = "SpitiQ"
-  company_url = "http://www.spitiq.com/"
-  location = "Goa, India"
-  date_start = "2015-01-01"
-  date_end = ""
   description = """Provide technical advice on Wireless Sensor Networks and Internet of Things."""
 
 [[experience]]
