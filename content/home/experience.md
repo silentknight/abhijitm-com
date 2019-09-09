@@ -18,27 +18,48 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Assistant Lecturer"
+  company = "Technological University Dublin (TU Dublin)"
+  company_url = "https://www.dit.ie/computing"
+  location = "Dublin, Ireland"
+  date_start = "2017-07-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """Conduct labs for undergraduate and graduate students of the School of Computer Science, TU Dublin."""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  title = "Co-Founder and Technical Advisor"
+  company = "SpitiQ"
+  company_url = "http://www.spitiq.com/"
+  location = "Goa, India"
+  date_start = "2015-01-01"
+  date_end = ""
   description = """Taught electronic engineering and researched semiconductor physics."""
 
+[[experience]]
+  title = "Co-Founder and Technical Advisor"
+  company = "SpitiQ"
+  company_url = "http://www.spitiq.com/"
+  location = "Goa, India"
+  date_start = "2015-01-01"
+  date_end = ""
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Co-Founder and Technical Advisor"
+  company = "SpitiQ"
+  company_url = "http://www.spitiq.com/"
+  location = "Goa, India"
+  date_start = "2015-01-01"
+  date_end = ""
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Co-Founder and Technical Advisor"
+  company = "SpitiQ"
+  company_url = "http://www.spitiq.com/"
+  location = "Goa, India"
+  date_start = "2015-01-01"
+  date_end = ""
+  description = """Taught electronic engineering and researched semiconductor physics."""
+  
 +++
