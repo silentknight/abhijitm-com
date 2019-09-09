@@ -27,14 +27,26 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+  description = "90%"
+  
+[[feature]]
   icon = "git"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Git"
   description = "100%"
 
 [[feature]]
+  icon = "aws"
+  icon_pack = "fab"
+  name = "AWS"
+  description = "70%"
+
+[[feature]]
   icon = "android"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Android SDK"
   description = "70%"
 
