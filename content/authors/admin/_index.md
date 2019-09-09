@@ -44,6 +44,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:abhijit.mahalunkar@gmail.com".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/abhijitmahalunkar
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/sknight_65
