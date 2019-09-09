@@ -18,12 +18,14 @@ organizations:
   url: "https://www.dit.ie/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include long distance dependencies in sequential data, language models, computer vision, human mobility, robotics and wireless sensor networks.
+bio: My research interest includes exploring long distance dependencies in sequential datasets, language models, computer vision, human mobility, robotics and wireless sensor networks.
 
 interests:
+- Deep Learning
 - Artificial Intelligence
 - Computational Linguistics
-- Information Retrieval
+- Robotics
+- Wireless Sensor Networks
 
 education:
   courses:
@@ -67,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-I, Abhijit Mahalunkar am a PhD candidate of Deep Learning at the Applied Intelligence Research Centre (AIRC), Technological University Dublin (TU Dublin) and co-funded by ADAPT Research Centre. My research interests include long distance dependencies in sequential data, language models, computer vision, human mobility, robotics and wireless sensor networks. Professionally, I am a technical advisor to SpitiQ and Qubiseed Technologies.
+I am a PhD candidate in Deep Learning at the Applied Intelligence Research Centre (AIRC), Technological University Dublin (TU Dublin). I am co-funded by ADAPT Research Centre, Ireland. I am currently exploring the impact of long distance dependencies in sequential data on sequential models such language models. Previously, I worked with autonomous underwater vehicles (AUVs) and wireless sensor networks (WSNs) and Internet of Things (IoT). Beyond my academic engagements, I am also co-founder of SpitiQ, India, an IoT based company. I also provide technical advice to Qubiseed Technologies LLP, India.
