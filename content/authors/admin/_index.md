@@ -72,4 +72,6 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in Deep Learning at the Applied Intelligence Research Centre (AIRC), Technological University Dublin (TU Dublin). I am co-funded by ADAPT Research Centre, Ireland. I am currently exploring the impact of long distance dependencies found in various datasets on neural architectures. Previously, I worked with autonomous underwater vehicles (AUVs) and wireless sensor networks (WSNs) and Internet of Things (IoT). I also co-founded an IoT based company in India named  SpitiQ. I also provide technical advice to Qubiseed Technologies LLP, India.
+I am a PhD candidate in Deep Learning at the Applied Intelligence Research Centre (AIRC), Technological University Dublin (TU Dublin). I am co-funded by ADAPT Research Centre, Ireland. I am currently exploring the impact of long distance dependencies found in various datasets on neural architectures. Previously, I worked with autonomous underwater vehicles (AUVs) and wireless sensor networks (WSNs) and Internet of Things (IoT). 
+
+I co-founded an IoT based company in India named  SpitiQ. I also provide technical advice to Qubiseed Technologies LLP, India.
