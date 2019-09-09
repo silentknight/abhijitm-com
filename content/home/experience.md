@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -42,24 +42,24 @@ date_format = "Jan 2006"
   location = "Goa, India"
   date_start = "2015-01-01"
   date_end = ""
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Provide technical advice on Wireless Sensor Networks and Internet of Things."""
 
 [[experience]]
-  title = "Co-Founder and Technical Advisor"
-  company = "SpitiQ"
-  company_url = "http://www.spitiq.com/"
+  title = "Technical Advisor"
+  company = "Qubiseed Technologies LLP"
+  company_url = "http://www.qubiseed.com/"
   location = "Goa, India"
-  date_start = "2015-01-01"
+  date_start = "2016-01-01"
   date_end = ""
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Provide technical advice on web applications."""
 
 [[experience]]
-  title = "Co-Founder and Technical Advisor"
-  company = "SpitiQ"
-  company_url = "http://www.spitiq.com/"
+  title = "Project Assistant"
+  company = "National Institute of Oceanography"
+  company_url = "http://www.nio.org/"
   location = "Goa, India"
-  date_start = "2015-01-01"
-  date_end = ""
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2010-11-01"
+  date_end = "2014-07-01"
+  description = """Worked with autonomous underwater vehicles (AUVs)."""
   
 +++
