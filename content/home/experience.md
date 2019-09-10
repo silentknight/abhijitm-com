@@ -24,7 +24,16 @@ date_format = "Jan 2006"
   location = "Dublin, Ireland"
   date_start = "2017-07-01"
   date_end = ""
-  description = """Conduct labs for undergraduate and graduate students of the School of Computer Science, TU Dublin."""
+  description = """Conduct labs for undergraduate and graduate students of the school of computer science, TU Dublin."""
+
+[[experience]]
+  title = "Instructor of Robotics"
+  company = "Dublin City University (DCU)"
+  company_url = "https://www.dit.ie/computing"
+  location = "Dublin, Ireland"
+  date_start = "2019-06-22"
+  date_end = "2019-07-12"
+  description = """Instructor of robotics at Centre of Talented Youth Ireland (CTYI)."""
 
 [[experience]]
   title = "Co-Founder and Technical Advisor"
@@ -33,7 +42,7 @@ date_format = "Jan 2006"
   location = "Goa, India"
   date_start = "2015-01-01"
   date_end = ""
-  description = """Provide technical advice on Wireless Sensor Networks and Internet of Things."""
+  description = """Provide technical advice on wireless sensor networks (WSNs) and internet of things (IoT)."""
 
 [[experience]]
   title = "Technical Advisor"
