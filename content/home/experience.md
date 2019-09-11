@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "Dublin, Ireland"
   date_start = "2019-06-22"
   date_end = "2019-07-12"
-  description = """Instructor of robotics at Centre of Talented Youth Ireland (CTYI)."""
+  description = """Instructor of robotics at Centre for Talented Youth Ireland (CTYI)."""
 
 [[experience]]
   title = "Co-Founder and Technical Advisor"
