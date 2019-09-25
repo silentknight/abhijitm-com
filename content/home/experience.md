@@ -49,7 +49,7 @@ date_format = "Jan 2006"
   company = "Qubiseed Technologies LLP"
   company_url = "http://www.qubiseed.com/"
   location = "Goa, India"
-  date_start = "2016-01-01"
+  date_start = "2017-09-01"
   date_end = ""
   description = """Provide technical advice on web applications."""
 
