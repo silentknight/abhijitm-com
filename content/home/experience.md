@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Technological University Dublin (TU Dublin)"
   company_url = "https://www.dit.ie/computing"
   location = "Dublin, Ireland"
-  date_start = "2017-07-01"
+  date_start = "2017-09-01"
   date_end = ""
   description = """Conduct labs for undergraduate and graduate students of the school of computer science, TU Dublin."""
 
