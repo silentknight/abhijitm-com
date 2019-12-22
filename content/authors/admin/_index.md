@@ -72,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in deep learning at Technological University Dublin, Ireland and co-funded by ADAPT Research Centre, Ireland. I am a member of the Applied Intelligence Research Center, TU Dublin, Ireland. My research includes exploring the impact of long distance dependencies (in sequential datasets) on neural architectures (sequential models). Previously, I worked with autonomous underwater vehicles and wireless sensor networks. 
+I am a PhD candidate in deep learning at Technological University Dublin, Ireland and co-funded by ADAPT Research Centre, Ireland. I am a member of the Applied Intelligence Research Center, TU Dublin, Ireland. My research includes exploring the impact of long distance dependencies (in sequential datasets) on neural architectures (sequential models). Previously, I worked with autonomous underwater vehicles and wireless sensor networks.
 
-I co-founded an IoT company SpitiQ, Goa, India. I also provide technical assitance to Qubiseed Technologies LLP, Goa, India.
+I co-founded an IoT company SpitiQ, Goa, India. I also provide technical assistance to Qubiseed Technologies LLP, Goa, India.
