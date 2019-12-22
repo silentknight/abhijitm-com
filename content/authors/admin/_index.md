@@ -15,7 +15,7 @@ role: PhD candidate in deep learning
 # Organizations/Affiliations
 organizations:
 - name: Technological University Dublin
-  url: "https://www.dit.ie/"
+  url: "https://tudublin.ie/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interest includes exploring long distance dependencies in sequential datasets, language models, computer vision, human mobility, robotics and wireless sensor networks.
@@ -72,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in deep learning at Technological University Dublin, Ireland and co-funded by ADAPT Research Centre, Ireland. My research includes exploring the impact of long distance dependencies (in sequential datasets) on neural architectures (sequential models). Previously, I worked with autonomous underwater vehicles and wireless sensor networks. 
+I am a PhD candidate in deep learning at Technological University Dublin, Ireland and co-funded by ADAPT Research Centre, Ireland. I am a member of the Applied Intelligence Research Center, TU Dublin, Ireland. My research includes exploring the impact of long distance dependencies (in sequential datasets) on neural architectures (sequential models). Previously, I worked with autonomous underwater vehicles and wireless sensor networks. 
 
 I co-founded an IoT company SpitiQ, Goa, India. I also provide technical assitance to Qubiseed Technologies LLP, Goa, India.
