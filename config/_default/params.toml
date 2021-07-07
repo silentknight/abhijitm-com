@@ -66,7 +66,7 @@ email = "mail@abhijitm.com"
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/sknight_65"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:abhijit.mahalunkar?call"},
-  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/sknight_65"},
+#  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/sknight_65"},
 ]
 
 address = "Floor 3, FOCAS Research Institute, TU Dublin, Camden Row, Dublin 8, Ireland"
