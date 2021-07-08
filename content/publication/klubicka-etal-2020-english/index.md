@@ -1,7 +1,7 @@
 ---
 title: "English WordNet Random Walk Pseudo-Corpora"
 date: 2020-05-01
-publishDate: 2020-06-10T06:05:52.836581Z
+publishDate: 2021-07-08T08:18:23.928381Z
 authors: ["Filip Klubička", "Alfredo Maldonado", "Abhijit Mahalunkar", "John Kelleher"]
 publication_types: ["1"]
 abstract: ""

@@ -1,0 +1,1 @@
+academic import --bibtex static/files/mypapers.bib  --overwrite

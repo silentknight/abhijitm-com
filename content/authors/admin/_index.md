@@ -22,8 +22,8 @@ bio: My research interest includes exploring long distance dependencies in seque
 
 interests:
 - Deep Learning
-- Artificial Intelligence
-- Computational Linguistics
+- Natural Language Processing
+- Sequential Models
 - Robotics
 - Wireless Sensor Networks
 
