@@ -69,7 +69,8 @@ contact_links = [
 #  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/sknight_65"},
 ]
 
-address = "FOCAS Research Institute, TU Dublin, Camden Row, Dublin 8, Ireland"
+#address = "FOCAS Research Institute, TU Dublin, Camden Row, Dublin 8, Ireland"
+address = "Flat No. BG-04, Vassudeva Citadel, Block B, Gaonkarwada, Bicholim, Goa, India. 403504"
 
 # Display a map.
 # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
@@ -86,11 +87,11 @@ address = "FOCAS Research Institute, TU Dublin, Camden Row, Dublin 8, Ireland"
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 1
-map_api_key = "AIzaSyBYA_8jhwMjuBZ-4bqAfRVc_xs9qbJMB-U"
-latitude = "53.336138"
-longitude = "-6.267169"
-zoom = 15
+#map = 1
+#map_api_key = "AIzaSyBYA_8jhwMjuBZ-4bqAfRVc_xs9qbJMB-U"
+#latitude = "53.336138"
+#longitude = "-6.267169"
+#zoom = 15
 
 ############################
 ## Plugins                ##
