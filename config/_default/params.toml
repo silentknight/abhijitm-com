@@ -69,8 +69,8 @@ contact_links = [
 #  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/sknight_65"},
 ]
 
-#address = "FOCAS Research Institute, TU Dublin, Camden Row, Dublin 8, Ireland"
-address = "Flat No. BG-04, Vassudeva Citadel, Block B, Gaonkarwada, Bicholim, Goa, India. 403504"
+address = "School of Computer Science, TU Dublin, Grangegorman, Dublin 7, Ireland"
+#address = "Flat No. BG-04, Vassudeva Citadel, Block B, Gaonkarwada, Bicholim, Goa, India. 403504"
 
 # Display a map.
 # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
