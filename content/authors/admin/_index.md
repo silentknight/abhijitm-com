@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate in deep learning
+role: PhD candidate in Deep Learning (NLP)
 
 # Organizations/Affiliations
 organizations:
@@ -30,7 +30,7 @@ interests:
 education:
   courses:
   - course: PhD in Deep Learning (NLP)
-    institution: Technological University Dublin
+    institution: Technological University Dublin, Ireland
     year: 2023
   - course: BE in Electronics and Telecommunications
     institution: Goa Engineering College, Goa, India
@@ -72,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in deep learning at Technological University Dublin, Ireland and co-funded by ADAPT Research Centre, Ireland. I am a member of the Applied Intelligence Research Center, TU Dublin, Ireland. I study how neural language models (NLMs) represent data with long-distance dependencies (LDDs). Previously, I worked with autonomous underwater vehicles and wireless sensor networks.
+My research interests lie primarily in Natural Language Processing (NLP), specializing in Large Language Models (LLMs). I am pursuing my research under the guidance of Prof. John D. Kelleher at Technological University Dublin, Ireland, co-funded by TU Dublin Research Award and a research grant by ADAPT Centre, Ireland. I was previously funded by an IBM shared university grant. I am a member of the Applied Intelligence Research Center, TU Dublin, Ireland. My research lies at the intersection of deep neural networks, linguistics, sequential data and information theory. I examine the impact of long distance dependency in a dataset on language models in an attempt to make them more efficient. I also study formal languages so as to generate synthetic datasets.
 
-I co-founded an IoT company SpitiQ, Goa, India. I also provide technical assistance to Qubiseed Technologies LLP, Goa, India.
+Previously, I worked with the National Institute of Oceanography, Goa, India, where I worked with Autonomous Underwater Vehicles (AUV). I co-founded an IoT company, SpitiQ, Goa, India, where I was instrumental in building a home automation solution using Wireless Sensor Nodes (WSN) based on ATmega128RFA1 MCU, which supports IEEE 802.15.4 mesh network. I also assisted Cyanodoc Healthcare, Goa, India, in developing a doctor's appointment application.
