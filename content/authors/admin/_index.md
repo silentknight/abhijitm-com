@@ -14,24 +14,24 @@ role: PhD candidate in deep learning
 
 # Organizations/Affiliations
 organizations:
-- name: Technological University Dublin
+- name: Technological University Dublin, Ireland
   url: "https://tudublin.ie/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest includes exploring long distance dependencies in sequential datasets, language models, computer vision, human mobility, robotics and wireless sensor networks.
+bio: My research interest includes language models, natural language processing, machine learning, internet of things, and robotics.
 
 interests:
-- Deep Learning
+- Large Language Models
 - Natural Language Processing
-- Sequential Models
+- Machine Learning
+- Internet of Things
 - Robotics
-- Wireless Sensor Networks
 
 education:
   courses:
-  - course: PhD in Deep Learning
+  - course: PhD in Deep Learning (NLP)
     institution: Technological University Dublin
-    year: Present
+    year: 2023
   - course: BE in Electronics and Telecommunications
     institution: Goa Engineering College, Goa, India
     year: 2010
