@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate in Deep Learning (NLP)
+role: PhD in Deep Learning (NLP)
 
 # Organizations/Affiliations
 organizations:
@@ -72,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-My research interests lie primarily in Natural Language Processing (NLP), specializing in Large Language Models (LLMs). I am pursuing my research under the guidance of Prof. John D. Kelleher at Technological University Dublin, Ireland, co-funded by TU Dublin Research Award and a research grant by ADAPT Centre, Ireland. I was previously funded by an IBM shared university grant. I am a member of the Applied Intelligence Research Center, TU Dublin, Ireland. My research lies at the intersection of deep neural networks, linguistics, sequential data and information theory. I examine the impact of long distance dependency in a dataset on language models in an attempt to make them more efficient. I also study formal languages so as to generate synthetic datasets.
+My research interests lie primarily in Natural Language Processing (NLP), specializing in Large Language Models (LLMs). I am pursuing my research under the guidance of Prof. John D. Kelleher at Technological University Dublin, Ireland, co-funded by TU Dublin Research Award and a research grant by ADAPT Centre, Ireland. I was previously funded by an IBM shared university grant. I am a member of the Applied Intelligence Research Center, TU Dublin, Ireland. My research lies at the intersection of deep neural networks, linguistics, sequential data and information theory. I examine the impact of long distance dependency in a dataset on language models in an attempt to make them more efficient.
 
-Previously, I worked with the National Institute of Oceanography, Goa, India, where I worked with Autonomous Underwater Vehicles (AUV). I co-founded an IoT company, SpitiQ, Goa, India, where I was instrumental in building a home automation solution using Wireless Sensor Nodes (WSN) based on ATmega128RFA1 MCU, which supports IEEE 802.15.4 mesh network. I also assisted Cyanodoc Healthcare, Goa, India, in developing a doctor's appointment application.
+Previously, I worked with the National Institute of Oceanography, Goa, India, where I worked with Autonomous Underwater Vehicles (AUV). I co-founded an IoT company, SpitiQ, Goa, India, where I was instrumental in building a home automation solution using Wireless Sensor Nodes (WSN). I also assisted Cyanodoc Healthcare, Goa, India, in developing a doctor's appointment application.
