@@ -46,11 +46,11 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Technical Advisor"
-  company = "Qubiseed Technologies LLP"
-  company_url = "http://www.qubiseed.com/"
+  company = "Cyanodoc Healthcare"
+  company_url = "https://cyanodoc.com/"
   location = "Goa, India"
-  date_start = "2017-09-01"
-  date_end = ""
+  date_start = "2015-11-01"
+  date_end = "2020-02-15"
   description = """Provide technical advice on web applications."""
 
 [[experience]]
