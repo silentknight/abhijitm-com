@@ -31,7 +31,7 @@ subtitle = ""
     exclude_featured = false
     exclude_past = false
     exclude_future = false
-    
+
 [design]
   # Toggle between the various page layout types.
   #   1 = List
