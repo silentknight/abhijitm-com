@@ -60,7 +60,7 @@ date_format = "Jan 2006"
   location = "Goa, India"
   date_start = "2010-11-01"
   date_end = "2014-07-01"
-  description = "
+  description = ""
 
   Developed and maintained two robots (i) Autonomous Underwater Vehicle (AUV-MAYA) and (ii) Autonomous Vertical Profiler (AVP), at Marine Instrumentation Division. Participated in field trials of AUV-MAYA and AVP.
 { Developed, maintained, and updated AUV-MAYA which is designed on Linux SBC running Embedded Linux OS.
@@ -82,6 +82,6 @@ satellite constellation. The protocol was designed using a Python application.
 { Developed graphical user interfaces on Windows and Android for AUV-MAYA and AVP to perform their missions.
 { Developed a mission planner for AUV-MAYA that allowed the operator to plan mission paths for AUV-MAYA on
 Google Earth and converted them into mission files to be uploaded on AUV-MAYA.
-"
+""
   
 +++
