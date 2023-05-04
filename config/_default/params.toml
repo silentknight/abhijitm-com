@@ -59,7 +59,7 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "mail@abhijitm.com"
-#phone = "+353-899893701"
+phone = "+353-899893701"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -87,11 +87,11 @@ address = "School of Computer Science, TU Dublin, Grangegorman, Dublin 7, Irelan
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-#map = 1
-#map_api_key = "AIzaSyBYA_8jhwMjuBZ-4bqAfRVc_xs9qbJMB-U"
-#latitude = "53.336138"
-#longitude = "-6.267169"
-#zoom = 15
+map = 1
+map_api_key = "AIzaSyBYA_8jhwMjuBZ-4bqAfRVc_xs9qbJMB-U"
+latitude = "53.336138"
+longitude = "-6.267169"
+zoom = 15
 
 ############################
 ## Plugins                ##
