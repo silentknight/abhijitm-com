@@ -34,7 +34,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Assistant Lecturer/Senior Demonstrator"
-  company = "Technological University Dublin (TU Dublin)"
+  company = "Technological University Dublin"
   company_url = "https://www.tudublin.ie/"
   location = "Dublin, Ireland"
   date_start = "2017-09-01"
