@@ -63,7 +63,6 @@ date_format = "Jan 2006"
   description = """
 
   Developed and maintained two robots (i) Autonomous Underwater Vehicle (AUV-MAYA) and (ii) Autonomous Vertical Profiler (AVP), at Marine Instrumentation Division. Participated in field trials of AUV-MAYA and AVP.
-  
   Developed, maintained, and updated AUV-MAYA which is designed on Linux SBC running Embedded Linux OS.
   Improved the wireless communication of AUV-MAYA by modifying communication protocol on TCP/IP.
   Implemented new algorithms to enhance the control, navigation, and communication of AUV-MAYA.
