@@ -80,6 +80,7 @@ date_format = "Jan 2006"
   date_end = "2020-02-15"
   description = """
   Designed the web application architecture of the doctor’s appointment system and deployed it using Amazon AWS.
+  
   Advised on the development of the Android and iOS apps of patient’s and doctor’s user interface.
 
   Advised on the design of the differential diagnosis system using Bayes’ theorem for endocrine diseases.
