@@ -34,8 +34,3 @@
   name = "CV"
   url = "files/cv.pdf"
   weight = 60
-
-[[main]]
-  name = "Accomplishments"
-  url = "#accomplishments"
-  weight = 70
