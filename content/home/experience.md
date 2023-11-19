@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Product Architect"
+  title = "Co-Founder & Product Architect"
   company = "SpitiQ"
   company_url = "http://www.spitiq.com/"
   location = "Goa, India"
@@ -73,8 +73,8 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Technical Advisor"
-  company = "Cyanodoc Healthcare"
-  company_url = "https://cyanodoc.com/"
+  company = "Qubiseed Technologies LLP"
+  company_url = "https://www.qubiseed.com/"
   location = "Goa, India"
   date_start = "2015-11-01"
   date_end = "2020-02-15"
