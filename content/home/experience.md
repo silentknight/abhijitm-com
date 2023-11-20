@@ -18,45 +18,6 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Instructor"
-  company = "Inventrom"
-  company_url = "https://inventrom.com/"
-  location = "India"
-  date_start = "2009-06-01"
-  date_end = "2015-12-30"
-  description = """
-  Instructor of robotics and embedded systems at Inventrom, India.
-
-  Conducted workshops in robotics, embedded systems, MATLAB, and Octave for engineering students.
-
-  Conducted workshops on Raspberry Pi for professionals from Tata Consultancy Services and Persistent Systems and students from BITS Pilani and IIT Roorkee,
-  """
-
-[[experience]]
-  title = "Assistant Lecturer/Senior Demonstrator"
-  company = "Technological University Dublin"
-  company_url = "https://www.tudublin.ie/"
-  location = "Dublin, Ireland"
-  date_start = "2017-09-01"
-  date_end = "2021-06-01"
-  description = """
-  Conducted labs and tutored students in the School of Computer Science and the School of Engineering.
-
-  Subjects: Machine Learning, Computer Networks, Operating Systems, Databases, Forensics, Mobile Robotics.
-  """
-
-[[experience]]
-  title = "Instructor of Robotics"
-  company = "Dublin City University"
-  company_url = "https://www.dcu.ie/ctyi"
-  location = "Dublin, Ireland"
-  date_start = "2019-06-22"
-  date_end = "2019-07-12"
-  description = """
-  Instructor of Robotics at Centre for Talented Youth Ireland (CTYI). Designed and conducted a robotics course for high school students and guided them in the field of robotics.
-  """
-
-[[experience]]
   title = "Co-Founder & Product Architect"
   company = "SpitiQ"
   company_url = "http://www.spitiq.com/"
@@ -72,7 +33,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Technical Advisor"
+  title = "Technical Consultant"
   company = "Qubiseed Technologies LLP"
   company_url = "https://www.qubiseed.com/"
   location = "Goa, India"
@@ -119,11 +80,19 @@ date_format = "Jan 2006"
   description = """
   Developed websites with content management system (CMS) for Open Source Drug Discovery, Bangalore, India, and Bharatiya Vidya Bhavan, Goa, India.
   
-  Designed a social media device that integrates social media with the table clock running Android OS on BeagleBone Black Single Board Computer (SBC) to employ its hardware capabilities necessary for the social media device.
-  
   Developed a program for the Raspberry Pi to enable the developer from developing applications on Raspberry Pi without any hardware or programming knowledge.
 
   Conducted tutorials on CUDA programming at Goa Engineering College, Goa
   """
   
+[[experience]]
+  title = "Technical Consultant"
+  company = "SmartKlock Inc."
+  <!-- company_url = "https://abhijitm.com/" -->
+  location = "India"
+  date_start = "2014-10-01"
+  date_end = "2015-10-15"
+  description = """  
+  Designed a social media device that integrates social media with the table clock running Android OS on BeagleBone Black Single Board Computer (SBC) to employ its hardware capabilities necessary for the social media device.
+  """
 +++
