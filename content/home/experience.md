@@ -88,7 +88,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Technical Consultant"
   company = "SmartKlock Inc."
-  <!-- company_url = "https://abhijitm.com/" -->
+  company_url = "https://smartklock.com/"
   location = "India"
   date_start = "2014-10-01"
   date_end = "2015-10-15"
